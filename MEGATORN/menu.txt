@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Megatorn,a plataforma dos seus jogos!</title>
+    <link rel="shortcut icon" href="icone.png" >
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <link rel="stylesheet" type="text/css" href="css pinicial.css">
+  </head>
+
+  <body>
+  
+    <div class="navbar navbar-inverse">
+    <div class="navbar-inner">
+      <a class="brand" href="#"><font color="white" face="Showcard gothic">Megatorn</font></a>
+       <form class="navbar-search pull-left">
+         <input type="text" class="search-query" placeholder="Pesquise torneios">
+       </form>
+         <ul class="nav">
+            <li class="active"><a href="#"><font color="white" face="Showcard gothic">Home</font></a></li>
+            <li><a href="#"><font color="white" face="Showcard gothic">Ajuda</font></a></li>
+            <li><a href="#"><font color="white" face="Showcard gothic">SAC</font></a></li>
+            <li><a href="#"><font color="white" face="Showcard gothic">Cadastro</font></a></li>
+            <li><a href="login.html"><font color="white" face="Showcard gothic">Entrar</font></a></li>
+         </ul>

@@ -1,0 +1,27 @@
+body{
+	background-image: url('back.jpg');
+
+
+
+}
+#fonte{
+	color: #FFFFFF 
+}
+@media (max-width: 768px)
+.footer {
+    margin-left: -20px;
+    margin-right: -20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.footer {
+    padding: 70px 0;
+    margin-top: 70px;
+    border-top: 1px solid #e5e5e5;
+    background-color: rgba(255,255,255,0.6);
+    font-family: cooper black;
+}
+.footer{
+    display: block;
+}
+}
